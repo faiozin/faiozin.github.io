@@ -25,6 +25,4 @@ Apaixonado por tecnologia, inovação e criar soluções que impactam o mundo.
 
 **Quer entrar em contato?**
 
-Me avise depois que subir a foto e atualizar o `index.md` que eu te ajudo a deixar ainda mais bonito (centralizar melhor, mudar cores, etc).
 
-Pode subir a foto agora! 📸
