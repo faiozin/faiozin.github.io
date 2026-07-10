@@ -3,7 +3,11 @@ title: Francisco Camilo Pereira
 layout: default
 ---
 
-# 👋 Olá, eu sou o Francisco Camilo Pereira
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="foto.jpg" alt="Francisco Camilo Pereira" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
+</div>
+
+# 👋 Olá, eu sou o Francisco
 
 **Nascido em 13 de julho de 2013 | Belo Horizonte - MG**
 
@@ -13,24 +17,14 @@ Jovem promessa da tecnologia 🚀
 
 ## Sobre mim
 
-Aos 12 anos, já estou trabalhando no que pode ser o **novo dispositivo inovador** desta década.
+Aos 13 anos, já estou trabalhando no que pode ser o **novo dispositivo inovador** desta década.
 
 Apaixonado por tecnologia, inovação e criar soluções que impactam o mundo.
 
-## Habilidades
-- Desenvolvimento de Tecnologia
-- Inovação e Criatividade
-- Programação
-- Aprendizado Rápido
-
-## Projetos
-Em breve mais informações sobre meus projetos...
-
 ---
 
-**Quer entrar em contato?**  
-[Instagram](https://instagram.com) | [LinkedIn](https://linkedin.com)
+**Quer entrar em contato?**
 
----
+Me avise depois que subir a foto e atualizar o `index.md` que eu te ajudo a deixar ainda mais bonito (centralizar melhor, mudar cores, etc).
 
-*Última atualização: Julho 2026*
+Pode subir a foto agora! 📸
