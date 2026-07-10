@@ -1,0 +1,15 @@
+title: Francisco Camilo Pereira
+description: Jovem Promessa da Tecnologia
+baseurl: ""
+url: "https://faiozin.github.io"
+
+# Tema
+theme: jekyll-theme-cayman   # Você pode trocar depois
+
+# Informações pessoais
+author: Francisco Camilo Pereira
+email: seuemail@example.com
+github_username: faiozin
+
+# Outras configurações
+markdown: kramdown
